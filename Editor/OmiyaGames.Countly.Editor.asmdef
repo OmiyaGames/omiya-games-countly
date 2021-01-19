@@ -1,7 +1,8 @@
 {
     "name": "OmiyaGames.Countly.Editor",
+    "rootNamespace": "",
     "references": [
-        "OmiyaGames.Countly"
+        "GUID:996dacacc65a63842be2f149eb89ff4b"
     ],
     "includePlatforms": [
         "Editor"
@@ -12,5 +13,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }
