@@ -1,12 +1,12 @@
 {
-  "name": "com.omiyagames.countly",
+  "name": "com.countly.countly",
   "displayName": "Omiya Games - Countly",
-  "version": "0.1.0-preview.1",
+  "version": "20.11.0",
   "unity": "2020.2",
-  "unityRelease": "10f1",
-  "description": "A Countly SDK port to UPM.",
+  "unityRelease": "1f1",
+  "description": "A Countly SDK port to UPM.  This basically imports just the Unity SDK package.",
   "category": "Tool",
-  "type": "tool",
+  "type": "library",
   "license": "AGPL",
   "author": {
     "name": "Taro Omiya",
@@ -14,7 +14,8 @@
     "url": "https://www.omiyagames.com"
   },
   "dependencies": {
-    "com.unity.ext.nunit": "1.0.0"
+    "com.unity.ext.nunit": "1.0.0",
+    "jillejr.newtonsoft.json-for-unity": "12.0.301"
   },
   "keywords": [
     "Countly",
