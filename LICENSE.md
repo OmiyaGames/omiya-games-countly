@@ -1,22 +1,21 @@
-The MIT License (MIT)
-===============
+Countly Unity SDK
+--------------------------------------------------
 
-Copyright (c) 2019-2020 Omiya Games
+© Countly, https://count.ly
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Countly is provided under AGPL v3 with modified Section 7. In accordance 
+with Section 7 of the AGPL, the Works included in this package or repository 
+(excluding 3rd party Software), are subject to the following additional terms:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+You cannot remove any Countly logo or branding either from source code or user 
+interface and/or any other interface that can be publicly seen by end user. 
+No other brands, trade names, trademarks or service marks may be used for 
+derivative products. All names, links and logos of Countly must be kept as 
+in original distribution without any changes in all software screens 
+(including startup screen, dashboard, software header etc). There are tight 
+and enforcing restrictions on your ability to modify, change or remove 
+Countly name and logo from Countly software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+For more information, see Licensing FAQ: 
+
+https://resources.count.ly/docs/licencing-faq

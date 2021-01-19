@@ -1,16 +1,17 @@
 {
-    "name": "OmiyaGames.Template.Editor",
+    "name": "OmiyaGames.Countly.Tests",
     "references": [
-        "OmiyaGames.Template"
+        "OmiyaGames.Countly"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
 }

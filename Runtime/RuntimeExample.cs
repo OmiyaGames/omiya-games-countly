@@ -1,14 +1,14 @@
 using UnityEngine;
 using System.Collections.Generic;
 
-namespace OmiyaGames.Template
+namespace OmiyaGames.Countly
 {
     ///-----------------------------------------------------------------------
     /// <remarks>
     /// <copyright file="RuntimeExample.cs" company="Omiya Games">
     /// The MIT License (MIT)
     /// 
-    /// Copyright (c) 2019-2020 Omiya Games
+    /// Copyright (c) 2019-2021 Omiya Games
     /// 
     /// Permission is hereby granted, free of charge, to any person obtaining a copy
     /// of this software and associated documentation files (the "Software"), to deal
