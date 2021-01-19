@@ -1,18 +1,28 @@
 apiRules:
 - include:
-    # Taro Omiya: Updated namespace for this template
-    # Including the OmiyaGames.Template namespace
-    uidRegex: ^OmiyaGames\.Template$
+    # Including the Plugins.CountlySDK namespace
+    uidRegex: ^Plugins\.CountlySDK$
     type: Namespace
 - include:
-    # Taro Omiya: Updated namespace for this template
-    # Including the OmiyaGames.Template.Editor namespace
-    uidRegex: ^OmiyaGames\.Template\.Editor$
+    # Including the Plugins.CountlySDK.* namespace
+    uidRegex: ^Plugins\.CountlySDK\..+$
+    type: Namespace
+- include:
+    # Including the Plugins.iBoxDB namespace
+    uidRegex: ^Plugins\.iBoxDB$
+    type: Namespace
+- include:
+    # Including the Notifications namespace
+    uidRegex: ^Notifications$
+    type: Namespace
+- include:
+    # Including the Notifications.* namespace
+    uidRegex: ^Notifications\..+$
     type: Namespace
 - include:
     uidRegex: ^Global
     type: Namespace
 - exclude:
-    # Taro Omiya: note that I'm ignoring namespaces containing unit tests on purpooses
+    # Exclude everything else
     uidRegex: .*
     type: Namespace
