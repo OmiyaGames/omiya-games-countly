@@ -20,13 +20,17 @@
     "Countly",
     "Scripts",
     "SDK",
-    "Tool"
+    "Library"
   ],
   "samples": [
     {
-      "displayName": "Example 1",
-      "description": "This sample is just an example",
-      "path": "Samples~/Example1"
+      "displayName": "Example",
+      "description": "Sample provided by Countly",
+      "path": "Samples~/Example"
+    }, {
+      "displayName": "Documentation",
+      "description": "Documentation provided by Countly",
+      "path": "Samples~/Documentation"
     }
   ]
 }
