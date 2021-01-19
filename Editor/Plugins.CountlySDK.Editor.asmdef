@@ -1,6 +1,6 @@
 {
-    "name": "OmiyaGames.Countly.Editor",
-    "rootNamespace": "",
+    "name": "Plugins.CountlySDK.Editor",
+    "rootNamespace": "Plugins.CountlySDK.Editor",
     "references": [
         "GUID:996dacacc65a63842be2f149eb89ff4b"
     ],
