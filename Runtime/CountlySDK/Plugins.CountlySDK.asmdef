@@ -2,7 +2,9 @@
     "name": "Plugins.CountlySDK",
     "rootNamespace": "Plugins.CountlySDK",
     "references": [
-        "GUID:f93904a2720f96a4e9678c6fd38c1c10"
+        "GUID:f93904a2720f96a4e9678c6fd38c1c10",
+        "GUID:8152d05063b3a844398dd6d140294710",
+        "GUID:10548774174a13042a56acb4432fae8a"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
