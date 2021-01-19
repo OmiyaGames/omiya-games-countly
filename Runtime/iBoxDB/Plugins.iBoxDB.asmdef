@@ -1,9 +1,7 @@
 {
-    "name": "Plugins.CountlySDK",
-    "rootNamespace": "Plugins.CountlySDK",
-    "references": [
-        "GUID:f93904a2720f96a4e9678c6fd38c1c10"
-    ],
+    "name": "Plugins.iBoxDB",
+    "rootNamespace": "Plugins.iBoxDB",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
