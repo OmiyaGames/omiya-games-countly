@@ -1,7 +1,7 @@
 {
   "name": "com.countly.countlysdk",
   "displayName": "Countly SDK",
-  "version": "20.11.0",
+  "version": "20.11.0-exp",
   "unity": "2020.2",
   "unityRelease": "1f1",
   "description": "A Countly Unity SDK, ported to UPM format.",
@@ -27,7 +27,8 @@
       "displayName": "Example",
       "description": "Sample provided by Countly",
       "path": "Samples~/Example"
-    }, {
+    },
+    {
       "displayName": "Documentation",
       "description": "Documentation provided by Countly",
       "path": "Samples~/Documentation"
